@@ -1,0 +1,1 @@
+拉入HFBG后，需要在MainCube里，拉入HFBG_Paticles。之后设置下Camera里的组件
